@@ -1,0 +1,44 @@
+server:
+   port: 80
+   context-path: /
+mybatis:
+   configuration:
+# 开启驼峰uName自动映射到u_name
+      map-underscore-to-camel-case: true
+pagehelper:
+# 方言配置
+   helperDialect: mysql
+# 3.3.0版本可用 - 分页参数合理化，默认false禁用
+# 启用合理化时，如果pageNum<1会查询第一页，如果pageNum>pages会查询最后一页
+# 禁用合理化时，如果pageNum<1或pageNum>pages会返回空数据
+   reasonable: true
+   supportMethodsArguments: true
+   params: count=countSql
+spring:
+# mysql
+   datasource:
+      url: jdbc:mysql://localhost:3306/itdatabase
+      username: root
+      password: root
+      driver-class-name: com.mysql.jdbc.Driver
+   freemarker:
+      allow-request-override: false
+      cache: true
+      check-template-location: true
+      charset: UTF-8
+      content-type: text/html
+      expose-request-attributes: false
+      expose-session-attributes: false
+      expose-spring-macro-helpers: false
+      suffix: .ftl
+      template-loader-path: classpath:/templates/
+#redis
+   redis:
+      host: localhost
+      password: 123457
+      port: 6379
+      pool:
+         max-idle: 100
+         min-idle: 1
+         max-active: 1000
+         max-wait: -11

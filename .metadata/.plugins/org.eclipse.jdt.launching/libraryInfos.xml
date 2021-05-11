@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\software  download\eclipse" version="1.8.0_131">
+<bootpath>
+<entry path="D:\software  download\eclipse\lib\resources.jar"/>
+<entry path="D:\software  download\eclipse\lib\rt.jar"/>
+<entry path="D:\software  download\eclipse\lib\sunrsasign.jar"/>
+<entry path="D:\software  download\eclipse\lib\jsse.jar"/>
+<entry path="D:\software  download\eclipse\lib\jce.jar"/>
+<entry path="D:\software  download\eclipse\lib\charsets.jar"/>
+<entry path="D:\software  download\eclipse\lib\jfr.jar"/>
+<entry path="D:\software  download\eclipse\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\software  download\eclipse\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\software  download\eclipse\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\eclipse\install" version="1.8.0_131">
+<bootpath>
+<entry path="D:\eclipse\install\lib\resources.jar"/>
+<entry path="D:\eclipse\install\lib\rt.jar"/>
+<entry path="D:\eclipse\install\lib\sunrsasign.jar"/>
+<entry path="D:\eclipse\install\lib\jsse.jar"/>
+<entry path="D:\eclipse\install\lib\jce.jar"/>
+<entry path="D:\eclipse\install\lib\charsets.jar"/>
+<entry path="D:\eclipse\install\lib\jfr.jar"/>
+<entry path="D:\eclipse\install\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\eclipse\install\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\eclipse\install\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
