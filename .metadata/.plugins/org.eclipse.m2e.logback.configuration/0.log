@@ -240,3 +240,49 @@
 2021-03-05 16:04:01,591 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-03-05 16:04:01,592 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-03-05 16:04:01,592 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:40:44,076 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-28 15:45:52,229 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-28 15:46:16,821 [Worker-7: Creating project "ITDatabase"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qian:ITDatabase:0.0.1-SNAPSHOT @ /Users/qianhao/Jason/Software/Git/ITDatebase/ITDatabase/pom.xml.
+2021-07-28 15:46:17,384 [Worker-7: Creating project "ITDatabase"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ITDatabase/src/main/java
+2021-07-28 15:46:17,386 [Worker-7: Creating project "ITDatabase"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ITDatabase/src/main/resources
+2021-07-28 15:46:17,386 [Worker-7: Creating project "ITDatabase"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ITDatabase/src/test/java
+2021-07-28 15:46:17,387 [Worker-7: Creating project "ITDatabase"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ITDatabase/src/test/resources
+2021-07-28 15:46:20,233 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-28 15:46:20,239 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:46:20,241 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-28 15:46:20,243 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:46:39,977 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-28 15:46:39,981 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:46:39,983 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-07-28 15:46:39,984 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:48:02,829 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qian:ITDatabase-Web:0.0.1-SNAPSHOT @ /Users/qianhao/Jason/Software/Git/ITDatebase/ITDatabase/pom.xml.
+2021-07-28 15:48:03,054 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qian:ITDatabase-Web:0.0.1-SNAPSHOT @ /Users/qianhao/Jason/Software/Git/ITDatebase/ITDatabase/pom.xml.
+2021-07-28 15:48:03,500 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:03,503 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-28 15:48:03,521 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 105 resources
+2021-07-28 15:48:03,528 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:03,528 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:48:05,168 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qian:ITDatabase-Web:0.0.1-SNAPSHOT @ /Users/qianhao/Jason/Software/Git/ITDatebase/ITDatabase/pom.xml.
+2021-07-28 15:48:05,426 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:05,431 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-28 15:48:05,448 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 105 resources
+2021-07-28 15:48:05,608 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:05,608 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:48:07,079 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:07,079 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:48:07,079 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:48:07,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:07,082 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-28 15:48:14,274 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-07-28 15:48:14,496 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qian:ITDatabase-Web:0.0.1-SNAPSHOT @ /Users/qianhao/Jason/Software/Git/ITDatebase/ITDatabase/pom.xml.
+2021-07-28 15:48:14,749 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ITDatabase/src/main/java
+2021-07-28 15:48:14,749 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ITDatabase/src/main/resources
+2021-07-28 15:48:14,753 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ITDatabase/src/main/resources
+2021-07-28 15:48:14,756 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ITDatabase/src/test/java
+2021-07-28 15:48:14,756 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ITDatabase/src/test/resources
+2021-07-28 15:48:14,961 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-07-28 15:48:15,432 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:15,433 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-28 15:48:15,447 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 105 resources
+2021-07-28 15:48:15,568 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-28 15:48:15,569 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

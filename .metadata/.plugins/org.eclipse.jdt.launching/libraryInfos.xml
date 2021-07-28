@@ -1,41 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="D:\software  download\eclipse" version="1.8.0_131">
-<bootpath>
-<entry path="D:\software  download\eclipse\lib\resources.jar"/>
-<entry path="D:\software  download\eclipse\lib\rt.jar"/>
-<entry path="D:\software  download\eclipse\lib\sunrsasign.jar"/>
-<entry path="D:\software  download\eclipse\lib\jsse.jar"/>
-<entry path="D:\software  download\eclipse\lib\jce.jar"/>
-<entry path="D:\software  download\eclipse\lib\charsets.jar"/>
-<entry path="D:\software  download\eclipse\lib\jfr.jar"/>
-<entry path="D:\software  download\eclipse\classes"/>
-</bootpath>
-<extensionDirs>
-<entry path="D:\software  download\eclipse\lib\ext"/>
-<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
-</extensionDirs>
-<endorsedDirs>
-<entry path="D:\software  download\eclipse\lib\endorsed"/>
-</endorsedDirs>
-</libraryInfo>
-<libraryInfo home="D:\eclipse\install" version="1.8.0_131">
-<bootpath>
-<entry path="D:\eclipse\install\lib\resources.jar"/>
-<entry path="D:\eclipse\install\lib\rt.jar"/>
-<entry path="D:\eclipse\install\lib\sunrsasign.jar"/>
-<entry path="D:\eclipse\install\lib\jsse.jar"/>
-<entry path="D:\eclipse\install\lib\jce.jar"/>
-<entry path="D:\eclipse\install\lib\charsets.jar"/>
-<entry path="D:\eclipse\install\lib\jfr.jar"/>
-<entry path="D:\eclipse\install\classes"/>
-</bootpath>
-<extensionDirs>
-<entry path="D:\eclipse\install\lib\ext"/>
-<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
-</extensionDirs>
-<endorsedDirs>
-<entry path="D:\eclipse\install\lib\endorsed"/>
-</endorsedDirs>
-</libraryInfo>
+    <libraryInfo home="D:\software  download\eclipse" version="1.8.0_131">
+        <bootpath>
+            <entry path="D:\software  download\eclipse\lib\resources.jar"/>
+            <entry path="D:\software  download\eclipse\lib\rt.jar"/>
+            <entry path="D:\software  download\eclipse\lib\sunrsasign.jar"/>
+            <entry path="D:\software  download\eclipse\lib\jsse.jar"/>
+            <entry path="D:\software  download\eclipse\lib\jce.jar"/>
+            <entry path="D:\software  download\eclipse\lib\charsets.jar"/>
+            <entry path="D:\software  download\eclipse\lib\jfr.jar"/>
+            <entry path="D:\software  download\eclipse\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\software  download\eclipse\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\software  download\eclipse\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="D:\eclipse\install" version="1.8.0_131">
+        <bootpath>
+            <entry path="D:\eclipse\install\lib\resources.jar"/>
+            <entry path="D:\eclipse\install\lib\rt.jar"/>
+            <entry path="D:\eclipse\install\lib\sunrsasign.jar"/>
+            <entry path="D:\eclipse\install\lib\jsse.jar"/>
+            <entry path="D:\eclipse\install\lib\jce.jar"/>
+            <entry path="D:\eclipse\install\lib\charsets.jar"/>
+            <entry path="D:\eclipse\install\lib\jfr.jar"/>
+            <entry path="D:\eclipse\install\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\eclipse\install\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\eclipse\install\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/Users/qianhao/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955" version="15.0.2"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home" version="1.8.0_281">
+        <bootpath>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/sunrsasign.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/Users/qianhao/Library/Java/Extensions"/>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext"/>
+            <entry path="/Library/Java/Extensions"/>
+            <entry path="/Network/Library/Java/Extensions"/>
+            <entry path="/System/Library/Java/Extensions"/>
+            <entry path="/usr/lib/java"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" version="1.8.0_281">
+        <bootpath>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/sunrsasign.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jsse.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jce.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/charsets.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/jfr.jar"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/Users/qianhao/Library/Java/Extensions"/>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/ext"/>
+            <entry path="/Library/Java/Extensions"/>
+            <entry path="/Network/Library/Java/Extensions"/>
+            <entry path="/System/Library/Java/Extensions"/>
+            <entry path="/usr/lib/java"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/Users/qianhao/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955/jre" version="15.0.2"/>
 </libraryInfos>
